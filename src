@@ -1,0 +1,9 @@
+<script>start("/Users/melissausher/react-app/src/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("assets","assets",1,96,"96 B",1739922689,"2/18/25, 5:51:29 PM");</script>
+<script>addRow("components","components",1,160,"160 B",1739990039,"2/19/25, 12:33:59 PM");</script>
+<script>addRow("App.css","App.css",0,0,"0 B",1739924926,"2/18/25, 6:28:46 PM");</script>
+<script>addRow("App.tsx","App.tsx",0,478,"478 B",1739993518,"2/19/25, 1:31:58 PM");</script>
+<script>addRow("main.tsx","main.tsx",0,251,"251 B",1739925012,"2/18/25, 6:30:12 PM");</script>
+<script>addRow("Message.tsx","Message.tsx",0,123,"123 B",1739924225,"2/18/25, 6:17:05 PM");</script>
+<script>addRow("vite-env.d.ts","vite-env.d.ts",0,38,"38 B",1739922689,"2/18/25, 5:51:29 PM");</script>
